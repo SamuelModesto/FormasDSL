@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root nodeRef="r:6c3cb12f-9328-4af5-97a7-d186370ad0e1(Formas.sandbox)/9060637809110577534">
+    <file name="MeuDesenho.java">
+      <node id="9060637809110577534" at="13,54,14,37" concept="0" />
+      <node id="9060637809110577537" at="14,37,15,42" concept="0" />
+      <node id="9060637809110577543" at="15,42,16,42" concept="0" />
+      <node id="9060637809110577551" at="16,42,17,43" concept="0" />
+      <node id="9060637809110577561" at="17,43,18,42" concept="0" />
+      <node id="9060637809110577573" at="18,42,19,42" concept="0" />
+      <node id="9060637809110577587" at="19,42,20,42" concept="0" />
+      <node id="9060637809110577603" at="20,42,21,42" concept="0" />
+      <node id="9060637809110577621" at="21,42,22,42" concept="0" />
+      <node id="9060637809110577641" at="22,42,23,42" concept="0" />
+      <node id="9060637809110577534" at="26,29,27,32" concept="0" />
+      <node id="9060637809110577534" at="27,32,28,56" concept="0" />
+      <node id="9060637809110577534" at="28,56,29,21" concept="0" />
+      <node id="9060637809110577534" at="29,21,30,53" concept="0" />
+      <node id="9060637809110577534" at="30,53,31,16" concept="0" />
+      <node id="9060637809110577534" at="31,16,32,26" concept="0" />
+      <node id="9060637809110577534" at="34,42,35,39" concept="3" />
+      <node id="9060637809110577534" at="35,39,36,23" concept="0" />
+      <node id="9060637809110577534" at="34,0,38,0" concept="4" trace="main#([Ljava/lang/String;)V" />
+      <node id="9060637809110577534" at="26,0,34,0" concept="2" trace="inicializar#()V" />
+      <node id="9060637809110577534" at="12,0,25,0" concept="2" trace="paintComponent#(Ljava/awt/Graphics;)V" />
+      <node id="9060637809110577534" at="11,0,26,0" concept="1" trace="painel" />
+      <scope id="9060637809110577534" at="34,42,36,23">
+        <var name="tela" id="9060637809110577534" />
+      </scope>
+      <scope id="9060637809110577534" at="34,0,38,0">
+        <var name="args" id="9060637809110577534" />
+      </scope>
+      <scope id="9060637809110577534" at="26,29,32,26" />
+      <scope id="9060637809110577534" at="26,0,34,0" />
+      <scope id="9060637809110577534" at="13,54,23,42" />
+      <scope id="9060637809110577534" at="12,0,25,0">
+        <var name="graphics" id="9060637809110577534" />
+      </scope>
+      <unit id="9060637809110577534" at="11,30,25,3" name="Formas.sandbox.MeuDesenho$1" />
+      <unit id="9060637809110577534" at="10,0,39,0" name="Formas.sandbox.MeuDesenho" />
+    </file>
+  </root>
+</debug-info>
+
